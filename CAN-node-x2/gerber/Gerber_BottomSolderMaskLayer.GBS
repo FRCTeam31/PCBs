@@ -1,0 +1,24 @@
+G04 Layer: BottomSolderMaskLayer*
+G04 Panelize: V-CUT, Column: 5, Row: 2, Board Size: 35mm x 25mm, Panelized Board Size: 175mm x 50mm*
+G04 EasyEDA v6.5.51, 2026-03-07 20:30:28*
+G04 10347500379c492e8404218041aaee3f,89ea65b299fd49ffb1d2759f1efd6196,10*
+G04 Gerber Generator version 0.2*
+G04 Scale: 100 percent, Rotated: No, Reflected: No *
+G04 Dimensions in millimeters *
+G04 leading zeros omitted , absolute positions ,4 integer and 5 decimal *
+%FSLAX45Y45*%
+%MOMM*%
+
+%AMMACRO1*4,1,8,-1.0211,-1.0508,-1.0508,-1.0208,-1.0508,1.0211,-1.0211,1.0508,1.0208,1.0508,1.0508,1.0211,1.0508,-1.0208,1.0208,-1.0508,-1.0211,-1.0508,0*%
+%ADD10MACRO1*%
+%ADD11C,2.1016*%
+%ADD12C,0.0136*%
+
+%LPD*%
+D10*
+G01*
+X2754121Y1143761D03*
+D11*
+G01*
+X2754122Y889762D03*
+M02*
